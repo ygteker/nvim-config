@@ -1,0 +1,2 @@
+require("gunes")
+print("hello")
